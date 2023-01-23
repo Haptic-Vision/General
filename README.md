@@ -13,3 +13,10 @@ A device that helps perceive your surrounding by using the sense of touch.
 ## Socials
 - [Instagram]()
 - [Youtube]()
+
+## Repos
+- [Documentation](https://github.com/Haptic-Vision/Documentation)
+- [Socials](https://github.com/Haptic-Vision/Socials)
+- [Housekeeping](https://github.com/Haptic-Vision/Housekeeping)
+- [Electronics](https://github.com/Haptic-Vision/Electronics)
+- [Software-stack](https://github.com/Haptic-Vision/Software-stack)
